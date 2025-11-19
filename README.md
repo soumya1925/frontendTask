@@ -29,6 +29,12 @@ https://frontend-task-449l-bxs4v5dbt-soumya-rouls-projects.vercel.app
 
 ## Getting Started
 
-// To run the project locally:
+// To run the project locally
 
 1. Clone the repository:
+```bash
+git clone https://github.com/soumya1925/frontendTask.git
+```
+Navigate to the project folder:cd frontend-task
+Install dependencies:npm install
+Start the development server: npm run dev
