@@ -29,6 +29,8 @@ https://frontend-task-449l-bxs4v5dbt-soumya-rouls-projects.vercel.app
 
 ## Getting Started
 
+// All required dependencies (React, Tailwind CSS, Vite, etc.) are listed in package.json.
+
 // To run the project locally
 
 1. Clone the repository:
@@ -38,3 +40,4 @@ git clone https://github.com/soumya1925/frontendTask.git
 Navigate to the project folder:cd frontend-task
 Install dependencies:npm install
 Start the development server: npm run dev
+
